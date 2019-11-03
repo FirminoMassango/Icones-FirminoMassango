@@ -9,4 +9,4 @@ Descição do App:
  O Inkscape é um editor de gráficos vectoriais profissional para Linux, Windows e macOS. É gratuito e de código aberto.
 
 
-#Para ícones sem preenchimento a princípio a espessura do traço será a de 1 px.
+#Para ícones sem preenchimento, a princípio a espessura do traço será a de 1 px.
