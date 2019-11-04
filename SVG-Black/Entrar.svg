@@ -25,8 +25,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-20.25"
+     inkscape:zoom="7.65625"
+     inkscape:cx="32"
      inkscape:cy="32"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -55,12 +55,12 @@
      id="layer1">
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       d="M 45.095928,19.4153 V 9.7531529 c 0,-2.9159337 -1.858311,-5.2634143 -4.166589,-5.2634143 v 0 H 5.7073526 c -2.3083214,0 -4.1666324,2.3474806 -4.1666324,5.2634143 V 54.246846 c 0,2.915934 1.858311,5.263414 4.1666324,5.263414 H 40.929339 c 2.308278,0 4.166589,-2.34748 4.166589,-5.263414 v -9.662147"
+       d="M 18.418138,19.4153 V 9.7531529 c 0,-2.9159337 1.858311,-5.2634143 4.166589,-5.2634143 v 0 h 35.221987 c 2.308321,0 4.166632,2.3474806 4.166632,5.2634143 V 54.246846 c 0,2.915934 -1.858311,5.263414 -4.166632,5.263414 H 22.584727 c -2.308278,0 -4.166589,-2.34748 -4.166589,-5.263414 v -9.662147"
        id="path1929"
        inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       d="m 33.681785,24.499175 v 6.653273 l 0.133972,8.348381 -10.349208,-7.543204 z M 62.473346,32 h -27.3742 z"
+       d="m 11.755921,24.499175 v 6.653273 L 11.889893,39.500829 1.5406854,31.957625 Z M 40.547482,32 h -27.3742 z"
        id="rect1924"
        inkscape:connector-curvature="0" />
   </g>
